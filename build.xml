@@ -7,4 +7,4 @@
          <javac srcdir="${src.java.dir)" destdir="${result.javaclasses.dir}" debug="true" includeantruntime="false">
          </javac>
  </target>
- </proiect>
+ </project>
